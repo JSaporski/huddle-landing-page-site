@@ -32,7 +32,7 @@
 .phone span,
 .email span {
   font-size: 0.777em;
-  color: var(--grayish-blue);
+  color: #fff;
 }
 
 .location img,
@@ -75,7 +75,7 @@
 .other-links-1 li a,
 .other-links-2 li a {
   font-size: 0.777em;
-  color: var(--grayish-blue);
+  color: #fff;
 }
 
 .other-links-1 li a:hover,
@@ -120,7 +120,7 @@
 
 .copy {
   font-size: 0.622em;
-  color: var(--grayish-blue);
+  color: #fff;
 }
 
 @media only screen and (max-width: 1090px) {
